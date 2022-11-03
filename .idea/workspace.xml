@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70d7a194-62f9-4e40-90bd-9af842ceb811" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Javarush/Javarush.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javarush/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/Miles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Miles/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Receipt/Receipt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Receipt/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YandexAfisha/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YandexAfisha/src/main/java/MovieRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YandexAfisha/src/main/java/ru/netology/manager/MovieManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bmiService/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bmiService/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bmiService/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bmiService/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bmiService/src/BmiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bmiService/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gift/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gift/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gift/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gift/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gift/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gift/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQRService/src/main/java/ru/netology/scr/SQRService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQRService/src/test/java/ru/netology/scr/SQRServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpotBugsHometask/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpotBugsHometask/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpotBugsHometask/src/main/java/ru/netology/statistics/StatisticsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VkHometask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VkHometask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VkHometask/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VkHometask/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YandexAfisha/src/main/java/domain/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YandexAfisha/src/main/java/manager/MovieManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bonus-service/bonus-calculator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="CashBackHacker" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GpELYbG2daPgSiQGLcQorQYm50" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
+    "last_directory_selection": "C:/Project/CashBackHacker/src/main/java",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.netology.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.CashbackHackServiceTest (1)">
+    <configuration name="CashbackHackServiceTest (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.CalcNeedIfSpendNegativeForCashback" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.CalcNeedIfSpendNegativeForCashback&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.CalcNeedIfSpendThousandForCashback" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.CalcNeedIfSpendThousandForCashback&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.CalcNeedSpendElseForCashback (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.CalcNeedSpendElseForCashback&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CashbackHackServiceTest.CalcNeedSpendZeroForCashback" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.service.CashbackHackServiceTest.CalcNeedSpendZeroForCashback&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CashbackHackServiceTest (1)" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.CalcNeedIfSpendThousandForCashback" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.CalcNeedIfSpendNegativeForCashback" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.CalcNeedSpendZeroForCashback" />
+        <item itemvalue="Gradle.CashbackHackServiceTest.CalcNeedSpendElseForCashback (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d7a194-62f9-4e40-90bd-9af842ceb811" name="Changes" comment="" />
+      <created>1667077074395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667077074395</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
